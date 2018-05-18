@@ -26,6 +26,7 @@ You can even enable an address that allows people to publish directly to your co
 * [Animal Body Plans](http://bio2290.trubox.ca/) (for Biology 2290 at TRU)
 * [Brand Storytelling](https://jmc3353.adamcroom.com/brandstorytelling/) Ad Copy Layout, University of Oklahoma
 * [CogDogRoo Image Collector](https://cog.dog/roo/collector/) for Alan Levine's Nov 2017 Workshops in Victoria, Australia
+* [Edudoodle Workshop Gallery](http://gallery.edudoodle.com/) sharing [Liberating Structures Drawing Together(http://www.liberatingstructures.com/20-drawing-together/) stories of professional challenges
 * [Fanny Central](https://fannycentral.com/) for collecting inappropriately captioned old images. 
 * [GEOG 2221 Photo Collector](http://geog2221.trubox.ca/)  collecting images from participants in TRU’s GEOG 2221 Course: Regional Geography of Canada
 * [Image Pool](http://imagepool.trubox.ca/) - used for TRU workshops on finding images on the web 
@@ -38,7 +39,6 @@ You can even enable an address that allows people to publish directly to your co
 * [SPLOT Collector](http://splot.ca/collector/) - the development and very first site, stuff can and will break
 * [UDG Agora Image Pool](http://udg.theagoraonline.net/imagepool) used by University of Guadalajara faculty and students sharing media in the UDG Agora Project
 * [When I Needed Help Gallery](http://gallery.whenineededhelp.com/) an anonymous sharing of domestic abuse survival site
-* [Edudoodle Workshop Gallery] (http://gallery.edudoodle.com/) sharing [Liberating Structures Drawing Together] (http://www.liberatingstructures.com/20-drawing-together/) stories of professional challenges
 
 If you make a TRU Collector site, please please pretty please, fork this repo to edit this Readme with a link to your new site.
 
