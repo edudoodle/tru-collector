@@ -38,6 +38,7 @@ You can even enable an address that allows people to publish directly to your co
 * [SPLOT Collector](http://splot.ca/collector/) - the development and very first site, stuff can and will break
 * [UDG Agora Image Pool](http://udg.theagoraonline.net/imagepool) used by University of Guadalajara faculty and students sharing media in the UDG Agora Project
 * [When I Needed Help Gallery](http://gallery.whenineededhelp.com/) an anonymous sharing of domestic abuse survival site
+* [Edudoodle Workshop Gallery] (http://gallery.edudoodle.com/) sharing [Liberating Structures Drawing Together] (http://www.liberatingstructures.com/20-drawing-together/) stories of professional challenges
 
 If you make a TRU Collector site, please please pretty please, fork this repo to edit this Readme with a link to your new site.
 
